@@ -1,103 +1,50 @@
-<h1 align="center">Hi 👋, I'm Faysal Seifu</h1>
-
-<h3 align="center">
-Software Engineer • Junior Machine Learning Engineer • Building AI-Powered Applications
-</h3>
+<h1 align="center">Hi 👋 I'm Faysal Seifu</h1>
 
 <p align="center">
-Information Systems graduate from Addis Ababa University with a passion for backend development, machine learning, and building software that solves real-world problems.
+Software Engineer @ <b>AllCan Technologies</b> • Junior ML Engineer • Full-Stack Developer
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=faysalseifu&label=Profile%20Views&color=0e75b6&style=flat" />
+🎓 Addis Ababa University Graduate
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=faysalseifu&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,react,nextjs,postgres,mongodb,docker,kubernetes,git,tensorflow" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Building
 
-- 🎓 Information Systems Graduate – Addis Ababa University
-- 💼 Junior Backend Developer @ AllCan Technologies
-- 🤖 Junior Machine Learning Engineer
-- 🌱 Currently learning **Advanced Machine Learning, MLOps, and AI Systems**
-- 💻 Passionate about Backend Engineering, AI, NLP, and Data Science
-- 🚀 Building scalable web applications using the MERN Stack and PostgreSQL
-- 🇪🇹 Interested in using AI to solve real-world problems in Ethiopia
+🧠 AI & Machine Learning Applications
 
----
+🌐 Scalable Backend Systems
 
-## 🚀 Featured Projects
+📱 Full-Stack Web Applications
 
-### 📄 Agazh CV Builder
-AI-powered Resume Builder featuring:
-
-- ATS Score Analysis
-- AI Resume Suggestions
-- Cover Letter Generator
-- Job Matching
-- Modern Resume Templates
-
-**Tech:** React, Node.js, Express, PostgreSQL
+🇪🇹 Technology for Social Impact
 
 ---
 
-### 🛡 Fraud Detection System
+## ⭐ Featured Projects
 
-Machine Learning model for detecting fraudulent financial transactions using classification algorithms.
+📄 Agazh CV Builder
 
-**Tech:** Python, Scikit-learn, Pandas
+🛡 Fraud Detection System
 
----
+🏥 Medical Telegram Assistant
 
-### 🏥 Medical Telegram Assistant
+📈 Financial News Analysis
 
-AI-powered Telegram assistant for accessing medical information and healthcare support.
-
----
-
-### 📈 Financial News Stock Analysis
-
-Analyzes financial news sentiment and predicts stock movement using NLP techniques.
+📊 Financial Inclusion Forecasting
 
 ---
 
-### 📊 Financial Inclusion Forecasting
-
-Time-series forecasting model for Ethiopia's digital financial inclusion.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-
-React • Vite • Tailwind CSS • Bootstrap
-
-### Backend
-
-Node.js • Express.js • REST APIs
-
-### Databases
-
-PostgreSQL • MongoDB • MySQL
-
-### Machine Learning
-
-Python • Scikit-learn • TensorFlow • Pandas • NumPy
-
-### Tools
-
-Git • Docker • Kubernetes • Firebase • Postman
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -108,41 +55,21 @@ Git • Docker • Kubernetes • Firebase • Postman
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=faysalseifu&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🤝 Connect
 
-<p align="left">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/faysal-seifu-038443297/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 <a href="https://leetcode.com/u/faysi_seifu21/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
-
 </p>
-
----
-
-## 💡 Current Focus
-
-- Backend Engineering
-- Machine Learning
-- MLOps
-- AI Applications
-- Open Source Contributions
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
