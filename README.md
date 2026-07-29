@@ -1,25 +1,148 @@
 <h1 align="center">Hi 👋, I'm Faysal Seifu</h1>
-<h3 align="center"> 💻 Full-Stack Developer | Data science Enthusiast | Junior Machine learning engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalseifu&label=Profile%20views&color=0e75b6&style=flat" alt="faysalseifu" /> </p>
+<h3 align="center">
+Software Engineer • Junior Machine Learning Engineer • Building AI-Powered Applications
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faysalseifu" alt="faysalseifu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-seifu-038443297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-seifu-038443297/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/faysal.sayfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/faysal.sayfu" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/faysalseifu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/faysalseifu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/faysi_seifu21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/faysi_seifu21/" height="30" width="40" /></a>
+<p align="center">
+Information Systems graduate from Addis Ababa University with a passion for backend development, machine learning, and building software that solves real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=faysalseifu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalseifu&show_icons=true&locale=en&layout=compact" alt="faysalseifu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faysalseifu&show_icons=true&locale=en" alt="faysalseifu" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysalseifu&" alt="faysalseifu" /></p>
+- 🎓 Information Systems Graduate – Addis Ababa University
+- 💼 Junior Backend Developer @ AllCan Technologies
+- 🤖 Junior Machine Learning Engineer
+- 🌱 Currently learning **Advanced Machine Learning, MLOps, and AI Systems**
+- 💻 Passionate about Backend Engineering, AI, NLP, and Data Science
+- 🚀 Building scalable web applications using the MERN Stack and PostgreSQL
+- 🇪🇹 Interested in using AI to solve real-world problems in Ethiopia
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 Agazh CV Builder
+AI-powered Resume Builder featuring:
+
+- ATS Score Analysis
+- AI Resume Suggestions
+- Cover Letter Generator
+- Job Matching
+- Modern Resume Templates
+
+**Tech:** React, Node.js, Express, PostgreSQL
+
+---
+
+### 🛡 Fraud Detection System
+
+Machine Learning model for detecting fraudulent financial transactions using classification algorithms.
+
+**Tech:** Python, Scikit-learn, Pandas
+
+---
+
+### 🏥 Medical Telegram Assistant
+
+AI-powered Telegram assistant for accessing medical information and healthcare support.
+
+---
+
+### 📈 Financial News Stock Analysis
+
+Analyzes financial news sentiment and predicts stock movement using NLP techniques.
+
+---
+
+### 📊 Financial Inclusion Forecasting
+
+Time-series forecasting model for Ethiopia's digital financial inclusion.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+
+React • Vite • Tailwind CSS • Bootstrap
+
+### Backend
+
+Node.js • Express.js • REST APIs
+
+### Databases
+
+PostgreSQL • MongoDB • MySQL
+
+### Machine Learning
+
+Python • Scikit-learn • TensorFlow • Pandas • NumPy
+
+### Tools
+
+Git • Docker • Kubernetes • Firebase • Postman
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faysalseifu&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalseifu&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=faysalseifu&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/faysal-seifu-038443297/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/faysi_seifu21/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Backend Engineering
+- Machine Learning
+- MLOps
+- AI Applications
+- Open Source Contributions
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
